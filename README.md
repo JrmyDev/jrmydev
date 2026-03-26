@@ -48,7 +48,7 @@ With **10 years of hands-on development experience** and multiple successful co-
 - International reach with scalable solutions
 
 🤝 Let's Build Something Amazing
-Always looking for passionate co-founders, innovative projects, and opportunities to solve complex challenges. Whether you need a CTO, a technical co-founder, or just want to discuss your next big idea - let's connect!
+Always looking for passionate co-founders, innovative projects, and opportunities to solve complex challenges. Whether you need a founder or just want to discuss your next big idea - let's connect!
 
 ### 📬 Get In Touch
 - **Ventures** : [techvisor.fr](https://techvisor.fr)
